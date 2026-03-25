@@ -1,0 +1,12 @@
+# IDE Settings
+.idea/
+.vscode/
+
+# CMake Build directories
+cmake-build-debug/
+cmake-build-release/
+build/
+
+# Compiled executables
+*.exe
+*.out
